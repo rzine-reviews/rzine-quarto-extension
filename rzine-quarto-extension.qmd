@@ -32,7 +32,7 @@ citation:
 bibliography: references.bib
 google-scholar: true
 github-user: computorg
-repo: "computo-quarto-extension"
+repo: "rzine-quarto-extension"
 draft: true # set to false once the build is running
 published: false # will be set to true once accepted
 format:

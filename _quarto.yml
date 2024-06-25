@@ -11,6 +11,6 @@ execute:
   freeze: auto
 
 format:
-  computo-html: 
+  rzine-html: 
     output-file: index.html
-  computo-pdf: default  
+  rzine-pdf: default  

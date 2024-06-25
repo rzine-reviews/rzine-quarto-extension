@@ -1,0 +1,16 @@
+project:
+  title: "rzine-quarto-extension"
+  render: 
+    - rzine-quarto-extension.qmd
+  resources: 
+    - environment.yml
+    - .nojekyll
+
+execute: 
+  cache: true
+  freeze: auto
+
+format:
+  computo-html: 
+    output-file: index.html
+  computo-pdf: default  

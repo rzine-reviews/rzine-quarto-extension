@@ -25,19 +25,19 @@ keywords: [template, quarto, R, Python, reproductibility]
 doi: 10.xxxx/xxx-xxx
 citation:
   type: article-journal
-  container-title: "Computo"
+  container-title: "Rzine"
   doi: "10.xxxx/xxx-xxx"
-  url: "https://github.com/computorg/computo-quarto-extension"
+  url: "https://github.com/rzine-reviews/rzine-quarto-extension"
   issn: "2824-7795"
 bibliography: references.bib
 google-scholar: true
-github-user: computorg
+github-user: rzine-reviews
 repo: "rzine-quarto-extension"
 draft: true # set to false once the build is running
 published: false # will be set to true once accepted
 format:
-  computo-pdf: default
-  computo-html: default
+  rzine-pdf: default
+  rzine-html: default
 ---
 
 # Abstract
@@ -160,16 +160,7 @@ x <- rnorm(10)
 
 ### Python
 
-```{python}
-#| label: fig-plotly
-#| fig-cap: "A simple python plotly example"
-import plotly.express as px
-df = px.data.tips()
-fig = px.histogram(df, x="total_bill", y="tip", color="sex",
-                   marginal="box", # or violin, rug
-                   hover_data=df.columns)
-fig
-```
+
 
 ## Figures
 

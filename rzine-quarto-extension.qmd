@@ -36,7 +36,7 @@ repo: "rzine-quarto-extension"
 draft: true # set to false once the build is running
 published: false # will be set to true once accepted
 format:
-  rzine-pdf: default
+  # rzine-pdf: default
   rzine-html: default
 ---
 

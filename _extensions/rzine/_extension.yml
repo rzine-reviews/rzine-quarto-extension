@@ -28,8 +28,8 @@ contributes:
       code-block-background: true
     html:
       theme: [code-block-all.scss, custom.scss]
-      title-block-banner: "#034E79"
-      title-block-banner-color: "#FFFFFF"
+      title-block-banner: "#0c3762"
+      title-block-banner-color: "#f0aa0c"
       license: "CC BY"
       reference-section-title: Bibliography
       date-format: long

@@ -1,26 +1,26 @@
 ---
-title: "Computo Journal Format"
-subtitle: "To be used as template for contribution to Computo"
-date: 01/02/2023
+title: "Titre article"
+subtitle: "Sous-titre article méthodologique Rzine"
+date: 01/06/2024
 date-modified: last-modified
 author:
-  - name: The Computo Team
+  - name: Team Rzine
     corresponding: true
-    email: computo@sfds.asso.fr
-    url: https://computo.sfds.asso.fr
+    email: contact@srzine.fr
+    url: https://rzine.fr/
     orcid: 0000-0000-0000-0000
     affiliations:
-      - name: Société Française de Statistique
-        department: Statistique
-        address: IHP
+      - name: CNRS
+        department: Ingénieurie
+        address: Campus Condorcet
         city: Paris
         country: France
-        postal-code: 75005
+        postal-code: 	93300
   - name: a friend
     affiliations:
       - Another Affiliation
 description: |
-  This document provides a template based on the quarto system for contributions to Computo. The github repository in itself provides a specific quarto extension useful for authors (and editors!).
+  Ce document fournit un modèle de mise en page basé sur le système de publication Quarto pour la collection d'artiocle méthodologique Rzine.
 keywords: [template, quarto, R, Python, reproductibility]
 doi: 10.xxxx/xxx-xxx
 citation:
@@ -28,7 +28,7 @@ citation:
   container-title: "Rzine"
   doi: "10.xxxx/xxx-xxx"
   url: "https://github.com/rzine-reviews/rzine-quarto-extension"
-  issn: "2824-7795"
+  issn: "xxxx-xxxx"
 bibliography: references.bib
 google-scholar: true
 github-user: rzine-reviews
